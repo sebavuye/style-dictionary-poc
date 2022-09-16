@@ -1,0 +1,11 @@
+.scss-component {
+  border: 2px solid $COLOR_BASE_BLACK;
+  align-items: center;
+  display: flex;
+  background-color: $COLOR_BASE_GRAY_3;
+  justify-content: center;
+  height: 200px;
+  width: 200px;
+  font-size: $FONT_SIZE_SMALL;
+  margin: $SPACING_MEDIUM;
+}
