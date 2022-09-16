@@ -1,0 +1,15 @@
+{
+  "font": {
+    "size": {
+      "small": {
+        "value": "12px"
+      },
+      "medium": {
+        "value": "18px"
+      },
+      "large": {
+        "value": "24px"
+      }
+    }
+  }
+}

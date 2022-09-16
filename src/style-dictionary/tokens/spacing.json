@@ -1,0 +1,22 @@
+{
+  "spacing": {
+    "extra-small": {
+      "value": "4px"
+    },
+    "small": {
+      "value": "8px"
+    },
+    "normal": {
+      "value": "16px"
+    },
+    "medium": {
+      "value": "24px"
+    },
+    "large": {
+      "value": "32px"
+    },
+    "extra-large": {
+      "value": "40px"
+    }
+  }
+}

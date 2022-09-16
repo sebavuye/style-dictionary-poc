@@ -1,0 +1,27 @@
+{
+  "source": ["src/style-dictionary/tokens/**/*.json"],
+  "platforms": {
+    "scss": {
+      "transformGroup": "scss",
+      "transforms": ["name/cti/constant"],
+      "buildPath": "src/theme/scss/common/",
+      "files": [
+        {
+          "destination": "_variables.scss",
+          "format": "scss/variables"
+        }
+      ]
+    },
+    "js": {
+      "transformGroup": "js",
+      "buildPath": "./src/consts/",
+      "transforms": ["name/cti/constant"],
+      "files": [
+        {
+          "destination": "variables.const.ts",
+          "format": "javascript/es6"
+        }
+      ]
+    }
+  }
+}
