@@ -1,13 +1,12 @@
 /**
  * Do not edit directly
- * Generated on Fri, 16 Sep 2022 10:38:39 GMT
+ * Generated on Fri, 16 Sep 2022 10:45:06 GMT
  */
 
 export const COLOR_BASE_GRAY_1 = "#ecf2f6";
 export const COLOR_BASE_GRAY_2 = "#d9e5f2";
 export const COLOR_BASE_GRAY_3 = "#b6c7da";
-export const COLOR_BASE_GRAY_4 = "809dbe";
-export const COLOR_BASE_GRAY_2_HALF_OPACITY = "#d9e5f2";
+export const COLOR_BASE_GRAY_4 = "#809dbe";
 export const COLOR_BASE_WHITE = "#ffffff";
 export const COLOR_BASE_BLACK = "#000000";
 export const FONT_SIZE_SMALL = "12px";
